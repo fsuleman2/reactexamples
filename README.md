@@ -13,7 +13,7 @@ A modern React application bootstrapped with Vite, demonstrating key React conce
 ### Installation
 1. **Clone the repository** (if not already):
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/fsuleman2/reactexamples.git
    cd my-react-app
    ```
 2. **Install dependencies:**
